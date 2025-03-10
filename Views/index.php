@@ -18,7 +18,7 @@
     </section>
     <section class="login-content">
         <div class="logo">
-            <h1>Bienvenido luis</h1>
+            <h1>ALMACEN PRINCIPAL</h1>
         </div>
         <div class="login-box">
             <form class="login-form" id="frmLogin" onsubmit="frmLogin(event);">
