@@ -18,7 +18,9 @@
     </section>
     <section class="login-content">
         <div class="logo">
-            <h3>ALMACEN PRINCIPAL</h3>
+            <h2 class="login-head">ALMACEN PRINCIPAL</h2>
+            <h1 class="login-head">2025</h1>
+
         </div>
         <div class="login-box">
             <form class="login-form" id="frmLogin" onsubmit="frmLogin(event);">
